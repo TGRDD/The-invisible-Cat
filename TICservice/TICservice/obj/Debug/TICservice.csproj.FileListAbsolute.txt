@@ -1,0 +1,9 @@
+C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe.config
+C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe
+C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.pdb
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.csproj.AssemblyReference.cache
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.csproj.CoreCompileInputs.cache
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.exe
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.pdb
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.ProjectInstaller.resources
+C:\Users\himis\source\repos\TICservice\TICservice\obj\Debug\TICservice.csproj.GenerateResource.cache

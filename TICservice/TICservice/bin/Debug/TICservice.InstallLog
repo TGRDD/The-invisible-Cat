@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe
+   logfile = C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.InstallLog
+Устанавливается служба TICService...
+Служба TICService успешно установлена.
+Создается исходный EventLog TICService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.exe
+   logfile = C:\Users\himis\source\repos\TICservice\TICservice\bin\Debug\TICservice.InstallLog
